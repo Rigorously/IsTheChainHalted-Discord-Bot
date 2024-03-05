@@ -17,7 +17,7 @@ Install the required Node.js packages with `npm i`.
 
 Register a new Discord application: https://discord.com/developers/applications
 
-Get a `token` from the Bot tab and store it in config.json.
+Get a `token` from the Bot tab and store it in config.json. Keep it secret at all cost!
 
 Get the `clientId` from the OAuth2 tab and store it in config.json.
 
