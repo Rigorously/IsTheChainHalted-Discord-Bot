@@ -3,7 +3,7 @@
 It also shows:
 - the last block height
 - the last epoch
-- - when the chain was halted
+- when the chain was halted
 
 ![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/79daa0f7-b2dd-4526-9176-180ede569661)
 
