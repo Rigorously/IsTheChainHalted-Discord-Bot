@@ -21,6 +21,8 @@ Get a `token` from the Bot tab and store it in config.json.
 
 Get the `clientId` from the OAuth2 tab and store it in config.json.
 
+`guildId` in config.json is not used at this time.
+
 Create an invite link with the OAuth2 URL Generator on the OAuth2 tab. Pick the bot scope first.
 
 Run the bot with `npm start`.
