@@ -1,7 +1,7 @@
 {
 	"statusUrl": "https://isthechainhalted.today/status.json",
-	"chainHaltedAvatar": "https://isthechainhalted.today/static/favicon/yes/apple-touch-icon-152x152.png",
-	"chainOkAvatar": "https://isthechainhalted.today/static/favicon/no/apple-touch-icon-152x152.png",
+	"chainHaltedAvatar": "https://isthechainhalted.today/static/favicon/yes/isthechainhalted-yes.png",
+	"chainOkAvatar": "https://isthechainhalted.today/static/favicon/no/isthechainhalted-no.png",
 	"token": "Do not commit the token!",
 	"clientId": "your-application-id-goes-here",
 	"guildId": "your-server-id-goes-here"
