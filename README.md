@@ -9,9 +9,10 @@ It also shows:
 ![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/f722c78d-aecc-4a44-b239-edda4a070c6b)
 
 
-The chain statistics are provided by https://isthechainhalted.today.
+The chain statistics are provided by https://isthechainhalted.today. When linking to the website in Discord, the status of the chain will be embedded.
 
 ![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/9b6f80d1-4dd0-432d-aca5-d442c6bc7211)
+![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/34601875-e9b2-440c-a2fb-8cc5613f3e86)
 
 
 # Installation
