@@ -11,6 +11,9 @@ It also shows:
 
 The chain statistics are provided by https://isthechainhalted.today.
 
+![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/9b6f80d1-4dd0-432d-aca5-d442c6bc7211)
+
+
 # Installation
 
 Copy or clone the repository. 
