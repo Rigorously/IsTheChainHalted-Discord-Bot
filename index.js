@@ -86,12 +86,12 @@ client.once(Events.ClientReady, readyClient => {
 			const status = await response.json();
 
 			activityOptions.state = 'B' + status.latestBlockHeight + ' E' + status.epoch + ' | ' + formatISODateTime(status.latestBlockTime);
+			client.user.setActivity(activityOptions);
 
 			//Sync state only when necessary to prevent rate limit violation
 			if (isStatusChanged(status.isHalted)) {
 				localIsHalted = status.isHalted;
 				console.log("Status changed: " + getChainStr(status.isHalted));
-				client.user.setActivity(activityOptions);
 				setNickname(status.isHalted);
 				setStatus(status.isHalted);
 				setAvatar(status.isHalted);
