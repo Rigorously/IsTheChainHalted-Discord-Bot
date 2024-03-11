@@ -32,3 +32,10 @@ Get the `clientId` from the OAuth2 tab and store it in config.json.
 Create an invite link with the OAuth2 URL Generator on the OAuth2 tab. Only the `bot` scope is necessary, without any permissions.
 
 Run the bot with `npm start`.
+
+# Bonus
+
+The progression of the block height during the Shielded Expedition.
+
+![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/776254b6-3a0c-4e64-92d9-3904b831dd06)
+
