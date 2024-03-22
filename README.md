@@ -6,7 +6,7 @@ It also shows:
 - when the chain was halted
 
 ![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/79daa0f7-b2dd-4526-9176-180ede569661)
-![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/f722c78d-aecc-4a44-b239-edda4a070c6b)
+![image](https://github.com/Rigorously/IsTheChainHalted-Discord-Bot/assets/31181988/56119625-a412-42f9-8b0b-e7fbce131bbc)
 
 
 The chain statistics are provided by https://isthechainhalted.today. When linking to the website in Discord, the status of the chain will be embedded.
